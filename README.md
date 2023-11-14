@@ -17,6 +17,7 @@ Evology in its current version is the first step towards a complete multi-agent 
 ## Software and data
 Evology is primarily developed in Python and Cython for speed purposes, with an object-oriented design. Data used for modelling include CRSP, Compustat, SEC-EDGAR and other leading financial services providers.
 
-## Credits and funding
+## Contact, credits and funding
 
-Code developed by Aymeric Vié. This research has been supported by the EPSRC Centre for Doctoral Training in Mathematics of Random Systems: Analysis, Modelling and Simulation (EP/S023925/1)
+Code developed by Aymeric Vié at the University of Oxford - Mathematical Institute. You can contact me at vie[at]maths.ox.ac.uk. 
+This research has been supported by the EPSRC Centre for Doctoral Training in Mathematics of Random Systems: Analysis, Modelling and Simulation (EP/S023925/1)
