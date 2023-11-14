@@ -10,6 +10,7 @@ Evology is a large-scale multi-agent simulation of the US stock market, focused 
 * Quarterly simulation between 2012 and 2023 for 44 quarters
 * 1,741 unique stocks, primarily in S&P 500 and Russell 2000 indexes universes
 * 9,094 unique mutual funds, initialised with historical portfolio holdings and portfolio-based trading strategies
+* Simulated holdings cover 26% of the total stock market value in our stock universe.
 
 ## Applications 
 Evology in its current version is the first step towards a complete multi-agent 1:1 simulation of the US stock market. The first application is forecasting several market variables (e.g. stock returns, volatility, funds' individual trades, performance of funds or aggregate investment styles) conditional on fundamentals and on sufficient simulation coverage. Evology also allows testing various counterfactual scenarios: its emergent approach makes returns and trading activity endogenous and dynamic. Finally, Evology allows testing trading strategies under market impact and strategic interactions.
