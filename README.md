@@ -6,7 +6,7 @@
 
 Evology is a large-scale multi-agent simulation of the US stock market, focused on modelling mutual funds. Each simulated fund and stock respectively correspond to real funds and stocks, initialised with historical holdings and fundamentals data. In this model, mutual funds follow reconstructed trading strategies. The resulting stock demand and supply determine prices through market clearing. 
 
-```demo.ipynb``` showcases some results from simulation runs of Evology.
+[```demo.ipynb```](https://github.com/aymericvie/demo-evology/blob/main/demo.ipynb) showcases some results from simulation runs of Evology.
 
 ### Evology in numbers
 * Quarterly simulation between 2012 and 2023 for 44 quarters
