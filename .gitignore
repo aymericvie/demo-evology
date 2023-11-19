@@ -162,3 +162,4 @@ cython_debug/
 # Additiomal options
 *.txt 
 *.csv
+.DS_Store
